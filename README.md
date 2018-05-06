@@ -31,6 +31,8 @@ To complete this task you need to do the following:
 
 To consider this task complete, as a user, I should see a search field, and when I type "Syria" in it, I should see news articles related to Syria.
 
+---
+
 ### :books: Reading List
 
 * [News Api documentation](https://newsapi.org/docs)
